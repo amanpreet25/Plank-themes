@@ -11,6 +11,6 @@ For more information on plank go to: https://launchpad.net/plank
 #How To Install
 1. Download the zip file of the repo.
 2. Extract the contents of the zip file.
-3. Copy the contents of the zip file (all the folders) to /usr/share/plank/themes/
+3. Copy the contents of the zip file (all the folders) to /.local/share/plank/themes/
 
 Done.
